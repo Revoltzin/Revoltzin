@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Personal Projects!
 
-- 📫 How to reach me: jat1963@gmail.com or my linkedin https://www.linkedin.com/in/matheus-martins-tresguerras-58b510267/
+- 📫 How to reach me: matheustresguerras@gmail.com or my linkedin https://www.linkedin.com/in/matheus-martins-tresguerras-58b510267/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Revoltzin" />
